@@ -1,0 +1,28 @@
+{
+  "id": "000000000000000000000000",
+  "username": "JohnDoe",
+  "email": "johndoe@emailprovider.net",
+  "regDate": "01/01/1990 12:00:00",
+  "leagues": [
+    "Serie A",
+    "LaLiga",
+    "Premier League",
+    "Bundesliga",
+    "Ligue 1",
+    "Champions League",
+    "Conference League",
+    "Europa League",
+    "UEFA European Championship",
+    "UEFA World Cup"
+  ],
+  "championships": [
+    "FantaItalia",
+    "FantaWorld",
+    "Campionato Privato"
+  ],
+  "friends": [
+    "Michael Scott",
+    "Pam Beesly",
+    "Jim Halpert"
+  ]
+}
